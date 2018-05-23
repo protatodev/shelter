@@ -1,5 +1,16 @@
 h1.heading {
   text-align: center;
+  font-family: sans-serif;
+  background-color: orange;
+  font-size: 30px;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+h3.heading2 {
+  padding-top: 80px;
 }
 
 .superdiv {
@@ -17,4 +28,8 @@ img {
   background-color: black;
   color: white;
   text-align: center;
+}
+
+body {
+  background-color: lightblue;
 }
