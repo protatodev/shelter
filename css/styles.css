@@ -1,0 +1,20 @@
+h1.heading {
+  text-align: center;
+}
+
+.superdiv {
+  width: 600px;
+  column-count: 1;
+}
+
+img {
+  float: left;
+  padding: 10px;
+}
+
+.superdiv h3 {
+  font-style: italic;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
