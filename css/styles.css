@@ -11,11 +11,14 @@ h1.heading {
 
 h3.heading2 {
   padding-top: 80px;
+  text-align: center;
 }
 
 .superdiv {
   width: 600px;
   column-count: 1;
+  margin: auto;
+
 }
 
 img {
